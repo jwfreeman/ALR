@@ -1,0 +1,11 @@
+---
+layout: default
+img: ARL_3.jpg
+category: Services
+title: Build Your Knowledge Base
+description: |
+---
+While leaders have a number of things to juggle, striving to aquire <strong><u>new knowledge is vital</u></strong>. Staying current with those around you, and providing your team with new strategies on how to be successful creates a learning culture, encouraging independent growth long-term.
+<br />
+<br />
+<button>Our Reading List</button>

@@ -1,0 +1,11 @@
+---
+layout: default
+img: ARL_2.jpg
+category: Services
+title: Tips on <br />Being a Workaholic
+description: |
+---
+  <strong><u>Burning the midnight oil?</u></strong> Sometimes being a leader means realizing when you have overworked yourself. Click below to find some ways to keep pushing you and your team, without falling asleep during the next big presentation.
+<br />
+<br />
+<button>Tips & Tricks</button>
