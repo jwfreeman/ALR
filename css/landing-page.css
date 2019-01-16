@@ -164,3 +164,59 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.townLink {
+    background-color: rgba(235,109,94,0.8);
+    border-radius: 5px;
+    box-shadow: 2px 5px rgba(0,0,0,0.2);
+    width: 150px;
+    height: 30px;
+    position: relative;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.townLink p {
+    font-size: 1.5em;
+}
+
+.townLink p a {
+    text-decoration: none;
+    color: white;
+}
+
+.townLink:hover {
+    background-color: rgba(0,0,0,0.6);
+}
+
+.servButton {
+    background-color: rgba(235,109,94,0.8);
+    border-radius: 5px;
+    box-shadow: 2px 5px rgba(0,0,0,0.2);
+    width: 200px;
+    height: 35px;
+    position: relative;
+}
+
+.servButton p {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.servButton p a {
+    text-decoration: none;
+    color:white;
+}
+
+.servButton:hover {
+    background-color: rgba(0,0,0,0.6);
+}
+
+.noDeco {
+   text-decoration: none;
+   color: rgba(235,109,94,0.5)
+}
+
+.noDeco:hover {
+    color: rgba(235,109,94,0.9)
+}
