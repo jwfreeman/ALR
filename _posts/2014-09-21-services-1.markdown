@@ -8,4 +8,4 @@ description: |
   Leading at any level can be <strong><u>prickly bussiness</u></strong>. Some of the thistles can be avoided with some simple strategies taught by ALR to help you build vision, and grow connections to your team when thigns aren't going perfectly. (Which happens to be most of the time!)
   <br />
   <br />
-  <div class="servButton"> <p><a href="#">Start Learning</a></p> </div>
+  <div class="servButton"> <p><a href="/resources">Start Learning</a></p> </div>

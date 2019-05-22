@@ -38,7 +38,7 @@ h6 {
 .intro-message {
     position: relative;
     padding-top: 20%;
-    padding-bottom: 20%;
+    padding-bottom: 5%;
 }
 
 .intro-message > h1 {
@@ -226,4 +226,9 @@ p.copyright {
 .clientBox {
     height: 100px;
     margin-bottom: 20px;
+}
+
+.spacings {
+    padding-top: 30px;
+    padding-bottom: 15px;
 }
